@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DescriptionUI</string>
+    <string name="watch_preview">WATCH PREVIEW</string>
+    <string name="top_faculties">Top Faculties</string>
+    <string name="this_course_includes">This Course Includes</string>
+    <string name="demo_videos">Demo Videos</string>
+    <string name="view_all">View All</string>
+</resources>
